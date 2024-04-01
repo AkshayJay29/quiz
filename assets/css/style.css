@@ -1,3 +1,36 @@
 body {
-    background-color:blue;
+    background-color: white;
 }
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color:#d00000;
+  }
+  h1 {
+    color: #d00000;
+  }
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+button:hover {
+    background-color: #b80000;
+  }
+
+  
+#feedback-container {
+    margin-top: 20px;
+  }
+
+  #feedback {
+    font-style: italic;
+  }
+
