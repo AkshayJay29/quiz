@@ -13,12 +13,13 @@ body {
   }
   button {
     margin-top: 20px;
-    padding: 10px 20px;
+    padding: 15px 35px; /*Increased padding for bigger buttons*/
     background-color: blue;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    
   }
   
 button:hover {
