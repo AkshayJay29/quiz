@@ -53,27 +53,25 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
 
 ### Project Goals
 
-* The website should have a meaningful design, appealing to the customers.
+* The website should have a meaningful and bright design, appealing to the users.
 
-* Present the sessions offered and information about them in order to attract more customers.
+* Provide clear instructions that are easy to understand and follow for the user.
 
-* Provide the customer with useful contact us links that can facilitate future interaction with the business.
+* Provide the user with useful social media links that can facilitate future interaction with the brand.
 
-* Offer the customers the opportunity to sign up once they have decided to visit the business.
-
+* Offer the customers the opportunity to try again and improve on their initial score.
 ### User Stories
 
-* As a customer, I want to be able to navigate the website intuitively and learn more about the benefits of joining the programme.
+* As a user, I want to be able to navigate through the quiz easily.
 
-* As a customer, I want to be able to see any previous or current clients experiencing the benefits of the programme.
+* As a user, I want to be able to see whether answer I have selected is correct or incorrect before skipping to the next question.
 
-* As a customer, I want to easily find the contact information for the business.
+* As a user, I want to easily find the contact information for the business.
 
-* As a customer, I want to find social media links to the business.
+* As a user, I want to find social media links to the brand's social media pages.
 
-* As a customer, I want to be able to sign up directly from the website.
+* As a user, I want to be able to sswitch between the home page and the quiz page smoothly.
 
-* As a customer, I want to easily find the business' location.
 
 ### Color Scheme
 
