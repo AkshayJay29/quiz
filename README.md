@@ -1,4 +1,4 @@
-# First Class
+# AFC
 
 ![First Class mockup images](assets/images/IMG_1145.jpg)
 
@@ -94,11 +94,9 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 * **Header**
       
-    - The header contains the business logo and fully responsive navigation bar positioned across the top of the screen.
+- The header contains the business name and fully responsive navigation bar positioned across the top of the screen.
 
-    - The business logo functions as a link to the landing page.
-
-    - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
+- The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color for a better user experience.
 
 ![Header image](assets/images/header.png)
 
@@ -106,7 +104,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 ![Footer image](assets/images/footer.png)
 
-    - The footer includes a title of Follow Us to improve the user experience and make it more easy to understand for the user that the logos are links to the business' social media channels. 
+- The footer includes links to the business' social media channels. 
 
 ### Landing Page
 
@@ -115,8 +113,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 ![Main image](assets/images/mainimage.png)
 
-    - The main image is designed to attract the customer's attention and represents the typical admirable characteristics of our clients.
-
+    - The hero image is designed to attract the user's attention, and presents the home of  Arsenal FC to the user. This is done to create familiarity for the user as they will recogise that the hero image is an image of the Emirates Stadium (Arsenal's home stadium). 
 * **Why Join Us Section**
   
 ![Why join us section image](assets/images/whyjoinus.png)
@@ -132,30 +129,18 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 
 
-### Our Clients Page
-![Our Clients image](assets/images/clients.png)
 
-- The Our Clients page contains a range of images of successful clients in the first class community.
 
-- Follow us links remain in the footer of this page to ensure a smooth experience for the user and influence the user to support the business on social media.
-
-### Sign Up Page
-
-* **Sign Up Form**
+* **Feedback**
   
 ![Sign up form image](assets/images/clients.png)
 
-    - The form allows the customer to sign up to the desired programme directly from the business' website.    
+- Each user recieves personalised feeback based on how well they have performed in the quiz.
+- There is also a try again button at the bottom of this, to enhance the user experience, as they are given another chance to retake the quiz and improve their score. 
 
-- There is also a section on the page which plays a video of one of our clients training in order to give extra motivation for the customer to sign up to the programme.
 
-- All the input elements within the sign up form have a required attribute to make the customer experience more straight forward.
 
-  
-* **Background video**
-  - Background video (of a client training) added into the sign up page to add extra motivation to convince the user to join the programme as they can see others working hard and pushing themselves in the programme.
-
-[Back to top ⇧](#first-class)
+[Back to top ⇧](#afc)
 
 
 ## Technologies Used
@@ -163,6 +148,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 ### Languages Used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries and Programs Used
 
@@ -192,6 +178,17 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
     - W3C CSS Validator was used to validate the CSS code.
 
+
+
+
+
+      COMPLETE JS validator
+
+
+
+
+      
+
 [Back to top ⇧](#first-class)
 
 
@@ -199,16 +196,16 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 ### Testing User Stories
 
-* As a customer, I want to be able to navigate the website intuitively and learn more about the business and training being offered.
+* As a user, I want to be able to navigate the website intuitively.
 
-     - The website offers an intuitive structure for the customers to navigate and find the information they are looking for.
+     - The website offers an intuitive structure for the customers to navigate and find their wa into starting the quiz. 
 
     - The navigation bar is clearly presented in all pages for the customers to find with ease and it is easily navigable.
 
 
-* As a customer, I want to easily find the contact information for the business.
+* As a customer, I want to easily work through the quiz.
 
-    - The footer contains a clear follow us section with all necessary business' contacts
+    - The 
 
 * As a customer, I want to find social media links to the business.
 
@@ -337,8 +334,6 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
     1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
 
     2. At the top of the Repository, locate the Settings button on the menu.
-
-        - Alternatively click [here](https://raw.githubusercontent.com/) for a GIF demostration of the process.
 
     3. Scroll down the Settings page until you locate the Pages section.
 
