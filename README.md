@@ -80,8 +80,7 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
 
 ### Typography
 
-The main font used in the site is Lato, with Sans Serif as the fallback font in case Lato is not being imported correctly. Oswald is used for the headings with Sans Serif as the fallback. 
-
+The main font used in the site is Lato, with Sans Serif as the fallback font in case Lato is not being imported correctly.
 [Back to top ⇧](#first-class)
 
 
