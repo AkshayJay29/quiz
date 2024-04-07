@@ -287,38 +287,62 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 * Common Elements Testing
     - All Pages
-        
+
+  ### Home Page
+  
         - **Header**
 
             - Clicking on the main logo will bring the customer back to the landing page.
 
         - **Navigation Bar**
 
-            - Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+`- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
 
-            - Clicking on the navigation bar's links will bring the customer to the specified page.
+- Clicking on the navigation bar's links will bring the customer to the specified page.
+
         
+        - **Hero Image**
+- Hero image is the Emirates stadium. This was chosen to be the hero image of the home page as it makes the topic of the quiz very clear to the user. And enances user experience as it creates nostalgia, due to the stadium being the home of Arsenal FC. 
+
+- A text box with the text: "THE ARSENAL FC QUIZ". This has animation per character to atrract the attention of the user.
+- Below the text, the "START" button is given to direct the user to the quiz page.
+
         - **Footer**
-        
-- Clicking on the social media links will open the specific website on a new tab.
+
+  - Clicking on the social media links will open the specific website on a new tab.
 
 
- - Our Clients Page
- - 
-        - Range of pictures of clients in the gym, all from different ethnic backgrounds which will help any customer feel like they are already welcomed into the programme.  
 
+  ### Quiz Page
+
+  - **Navigation Bar**
+
+`- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+
+- Clicking on the navigation bar's links will bring the customer to the specified page.
         - Clicking on the book button link on each treatment section will bring the customer to the book now page.
 
-    - Sign Up Page
-
-        - When filling out the sign up form, the customer is required to complete all fields before submitting. 
-        
-        - Controls given to customer to help them control the background video in the sign up page
-     
-        - The hover effect on each section of the sign up form will help the customer navigate their way through the form. 
-
+- **Hero Image**
+- A closer and inside view of the Emirates stadium, to illustrate to the user that by clicking start, they are now into the quiz and in this experience. Similar to how the hero image, of the quiz page, makes them feel like they are in the stadium. 
     
+    
+- Selecting the button "Quiz rules" provides clear instructions to answer the quiz.
 
+
+-   "Start quiz" button- makes the user experience more easy to understand, as they can clearly identofy what to do next to start the quiz.
+
+  
+  ![quiz page preview](/assets/images/quiz-page-instruction.jpg)
+
+- After clicking the start quiz button, the user is provided with a page that contains question banks.The page has questions with 4 options to select answer. On top of page, there is a timer is provided to alert the user of the remaining time to complete the quiz. The page also has a next button, which will be active once answer option is selected. Once the user click the next button, the next question will appear until it's question 10. At the bottom of the page there is an option to provides the number of correct and incorrect answers given by the user.
+![quiz page preview](/assets/images/question-bank.jpg)
+
+- After completing 10 questions, a score box will appear that will exhibit the messages to the users which depends on how many answers are correct.
+
+  
+- the score box has a try again button which will redirect the user to question bank 1. At this stage the timer is restarted back to 180 seconds.
+  
+![quiz page preview](/assets/images/score-sheet.jpg)
 [Back to top ⇧](#first-class)
 
 
