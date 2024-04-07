@@ -60,6 +60,8 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
 * Provide the user with useful social media links that can facilitate future interaction with the brand.
 
 * Offer the customers the opportunity to try again and improve on their initial score.
+
+  
 ### User Stories
 
 * As a user, I want to be able to navigate through the quiz easily.
@@ -106,37 +108,6 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 - The footer includes links to the business' social media channels. 
 
-### Landing Page
-
-* **Main Image**
-
-
-![Main image](assets/images/mainimage.png)
-
-    - The hero image is designed to attract the user's attention, and presents the home of  Arsenal FC to the user. This is done to create familiarity for the user as they will recogise that the hero image is an image of the Emirates Stadium (Arsenal's home stadium). 
-* **Why Join Us Section**
-  
-![Why join us section image](assets/images/whyjoinus.png)
-
-    - Contains text with information about why the business is beneficial to customers as well as an eye-catching image.
-    
-* **Session times Section**
-  
-  ![Session times section image](assets/images/session.png)
-  
-- Contains text with information about the timings and location for each section
-- Has a striking background color of grey: rgba(0, 0, 0, .6) to catch the user's attention and help persuade them to join the programme.
-
-
-
-
-
-* **Feedback**
-  
-![Sign up form image](assets/images/clients.png)
-
-- Each user recieves personalised feeback based on how well they have performed in the quiz.
-- There is also a try again button at the bottom of this, to enhance the user experience, as they are given another chance to retake the quiz and improve their score. 
 
 
 
@@ -331,7 +302,9 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 -   "Start quiz" button- makes the user experience more easy to understand, as they can clearly identofy what to do next to start the quiz.
 
-  
+  - **Feedback**
+- Each user recieves personalised feeback based on how well they have performed in the quiz.
+- There is also a try again button at the bottom of this, to enhance the user experience, as they are given another chance to retake the quiz and improve their score.
   ![quiz page preview](/assets/images/quiz-page-instruction.jpg)
 
 - After clicking the start quiz button, the user is provided with a page that contains question banks.The page has questions with 4 options to select answer. On top of page, there is a timer is provided to alert the user of the remaining time to complete the quiz. The page also has a next button, which will be active once answer option is selected. Once the user click the next button, the next question will appear until it's question 10. At the bottom of the page there is an option to provides the number of correct and incorrect answers given by the user.
@@ -343,7 +316,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 - the score box has a try again button which will redirect the user to question bank 1. At this stage the timer is restarted back to 180 seconds.
   
 ![quiz page preview](/assets/images/score-sheet.jpg)
-[Back to top ⇧](#first-class)
+[Back to top ⇧](#afc)
 
 
 
@@ -365,7 +338,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
     5. The page will refresh automatically and generate a link to your website.
 
-[Back to top ⇧](#first-class)
+[Back to top ⇧](#afc)
 
 
 
@@ -376,7 +349,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 - All content was written by the developer.
 
 
-[Back to top ⇧](#first-class)
+[Back to top ⇧](#afc)
 
 
 ## Acknowledgements
@@ -387,6 +360,6 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 * Code Institute and its amazing Slack community for their support and providing me with advice for completing this project.
 
-* Student Care team, for being supportive, and providing consistent feedback, over the very unfortunate circumstance I faced during the completion of this project. 
+* Student Care team, for being supportive, and providing consistent feedback.
 
-[Back to top ⇧](#first-class)
+[Back to top ⇧](#afc)
