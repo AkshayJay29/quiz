@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Quiz about Arsenal FC">
+    <meta name="keywords" content="Arsenal FC, football">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>The Arsenal FC Quiz</title>
+  </head>
+  <body>
+    <!--IHE logo-->
+    <div id="logo">
+      <h1 aria-label="AFC">AFC
+      </h1>
+    </div>
+    <!--Navigation bar-->
+    <div class="menu-bar">
+      <ul>
+        <li>
+          <a href="index.html">Home
+          </a>
+        </li>
+        <li>
+          <a href="quiz.html" class="active">Quiz
+          </a>
+        </li>
+      </ul>
+    </div>
+    <!-- hero image in the home page-->
+    <div id="hero-image">
+      <div class="hero">
+        <img src="./assets/images/arsenalstadtwo.jpg" alt="emirates">
+      </div>
+    </div>
+    <!--quiz title heading and button for quiz instruction -->
+    <section>
+      <div class="quiz-heading">
+        <button id="btn-quiz-rule" class="rule">Quiz Rules
+        </button>
+      </div>           
+    </section>
+    <!--quiz rule intrusction container box-->
+    <section>
+      <div class="quiz-rule-box hide" id="box">
+        <div class="quiz-rule">
+          <h2 aria-label="here are the quiz rules">Instructions</h2>
+          <ul class="quiz-instruction">
+            <li> 1) Quiz contains 10 questions with options for answers.
+            </li>
+            <li> 2) Select the best option for answer.
+            </li>
+            <li> 3) Answer all questions within 180 seconds.
+            </li>
+            <li> 4) Go to the next question only if answer option is selected.
+            </li>
+            <li> 5) Correct or incorrect score are shown in the bottom.
+            </li>
+          </ul>
+          <p class="success">Success !
+            <i class="far fa-thumbs-up">
+            </i>
+          </p>
+          <div class="button">
+            <button id="start-quiz" class="click-button"> Start Quiz
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--section for questions, next and previous buttons-->
+    <section>
+      <div class="question-basket" id="question-box">
+        <div class="main-question-container">
+          <div class="question-title">
+            <h2 aria-label="Quiz on Arsenal FC"> Arsenal Football Club 
+              <br> 
+              <em>
+                <small>Assessment of the knowledge of Arsenal Fans
+                </small>
+              </em>
+            </h2>
+            <div>
+              <h3 aria-label="here is the timer for 180 seconds for quiz to be completed">Time Left
+              </h3> 
+            </div>
+          </div>
+        </div>
+        <!-- Section for question box-->
+        
+        <div id="question">
+        </div>
+        <!--Section for answers -->
+        <div id="answer">
+        </div>
+        <!--Next button section -->
+        <div class="button">
+          <button id="next-question" class="click-button"> Next
+          </button>
+        </div>
+        <!--section for storing the score for correct and incorrect answers-->
+        <div class="score">
+          <p class="plus-point">Correct Answers:&nbsp;&nbsp; 
+            <span id="right-answer">0
+            </span>
+          </p>
+          <p class="minus-point">Incorrect Answers:&nbsp;&nbsp; 
+            <span id="wrong-answer">0
+            </span>
+          </p>
+        </div>
+      </div>
+    </section>
+    <!--Final result message and feedback area -->
+    <div class="try-quiz" id="try">
+      <div class="message">
+        <h2>QUIZ OVER
+        </h2> 
+      </div>
+      <div id="score" class="final-outcome">
+      </div>
+      <div class="button">
+        <button id="try-again">Try Again
+        </button>
+      </div>
+    </div>
+    <!--footer section for social media with icons-->
+    <footer>
+      <ul class="social-media">
+        <li>
+          <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our facebook page">
+            <i class="fab fa-facebook-square">
+            </i>
+          </a>
+          <li>
+            <a href="https://twitter.com/?lang=en" target="_blank" rel="noopener" aria-label="Visit our  page">    
+              <i class="fab fa-twitter-square">
+              </i>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our instagram page">
+            <i class="fab fa-instagram-square">
+            </i>
+          </a>
+        </li>
+      </ul>
+    </footer>
+    <script src="assets/js/script.js">
+    </script>
+    <script src="https://kit.fontawesome.com/5d17dcf3d4.js" crossorigin="anonymous">
+    </script>
+  </body>
+</html>

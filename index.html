@@ -1,40 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <!-- font awesome and google fonts -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
-        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Raleway%7CRighteous" rel="stylesheet">
-
-    <link rel=""stylesheet" href="assets/css/style.css">
-</head>
-
-<body>
-    <title>Arsenal Quiz</title>
-    <link rel="stylesheet" href="assets/css/style.css"">
+    <meta name="description" content="Quiz about Arsenal FC">
+    <meta name="keywords" content="Arsenal FC, football">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>The Arsenal FC Quiz
+    </title>
   </head>
   <body>
-    <div class="container">
-      <h1>Arsenal Quiz</h1>
-      <div id="question-container">
-        <p id="question">Question goes here</p>
-        <ul id="option-list">
-          <!-- Options will be added via JavaScript -->
-        </ul>
-      </div>
-      <div id="feedback-container">
-        <p id="feedback"></p>
-      </div>
-      <button id="next-button">Next Question</button>
-      <p id="score">Score: <span id="score-value">0</span></p>
+    <!--AFC-->
+    <div id="logo">
+      <h1 aria-label="AFC">AFC
+      </h1>
     </div>
-
-    <script src="assets/js/script.js"></script>
-
-     <!--Navigation bar-->
-     <div class="menu-bar">
+    <!--Navigation bar-->
+    <div class="menu-bar">
       <ul>
         <li>
           <a href="index.html" class="active">Home
@@ -44,12 +27,52 @@
           <a href="quiz.html">Quiz
           </a>
         </li>
+      </ul>
+    </div>
+    <!-- hero image in the home page-->
+    <section id="hero-image">
+      <div class="hero">
+        <img src="./assets/images/arsenalstadium.png" alt="Arsenal Stadium">
+        <h2 class="headline" aria-label="Arsenal Fc Quiz">THE ARSENAL FC QUIZ</h2> 
+        <h3>
+          <a href="quiz.html" class ="start" aria-label="you can start quiz now">START
+          </a>
+        </h3> 
+      </div>
+    </section>
+    <!--footer section for social media with icons-->
+    <footer>
+      <ul class="social-media">
         <li>
-          <a href="contact.html">Feedback
+          <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our facebook page">
+            <i class="fab fa-facebook-square">
+            </i>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/?lang=en" target="_blank" rel="noopener" aria-label="Visit our  page">    
+            <i class="fab fa-twitter-square">
+            </i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our instagram page">
+            <i class="fab fa-instagram-square">
+            </i>
           </a>
         </li>
       </ul>
-    </div>
-</body>
-
+    </footer>
+    <!--font awesome script--> 
+    <script src="https://kit.fontawesome.com/5d17dcf3d4.js" crossorigin="anonymous">
+    </script>
+    <!--animation script--> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js" integrity="sha512-DkPsH9LzNzZaZjCszwKrooKwgjArJDiEjA5tTgr3YX4E6TYv93ICS8T41yFHJnnSmGpnf0Mvb5NhScYbwvhn2w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TimelineMax.min.js" integrity="sha512-0xrMWUXzEAc+VY7k48pWd5YT6ig03p4KARKxs4Bqxb9atrcn2fV41fWs+YXTKb8lD2sbPAmZMjKENiyzM/Gagw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    </script>
+    <!--java script-->   
+    <script src="assets/js/home.js">
+    </script>
+  </body>
 </html>
