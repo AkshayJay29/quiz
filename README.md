@@ -173,33 +173,21 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
     - The navigation bar is clearly presented in all pages for the customers to find with ease and it is easily navigable.
 
+* As a user, I want to easily work through the quiz.
 
-* As a customer, I want to easily work through the quiz.
+    - The website's home page and quiz follows a consistent color scheme of red, white and dark blue. These three colors compliment each other and are easy to the eye.
+ 
+    - Befoe starting the quiz, each new participant is presented a set of quiz rules on how to rightfully complete the quiz
+   
+    - There is a quiz timer, which counts down from 180 seconds, to clearly let the user know how much time they have left to complete the quiz.
 
-    - The 
+* As a user, I want to find social media links to the company's social media accounts.
 
-* As a customer, I want to find social media links to the business.
-
-    - The footer provides link to the business' social media channels.
-
-* As a customer, I want to be able to sign up directly from the website.
-
-    - The sign up page provides a form for the customer to sign up to the programme.
-
-* As a customer, I want to easily find the business' location.
-
-    - The home page contains a session times section which clearly provides the location for each session, as well as what time it takes takes place. 
+    - The footer provides link to the company's social media channels (note: the website links take you straight to the home pages of the social media apps and not the afc company- as afc is fictional).
 
 
 ### Code Validation
 
-* The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
-
-    - W3C Markup Validator found an error concerning headings not being included on the main and book now images. The section tag was replaced for a div tag to correct this. 
-    
-    - Another error found by W3C Markup Validator was concerning a percentage value used inside the iframe tag to declare the width property on the Book Now page. The width and height properties for the iframe were declared inside the CSS file instead.
-
-    -  W3C CSS Validator found no errors or warnings on my CSS.
 
 ### Tools Testing
 
