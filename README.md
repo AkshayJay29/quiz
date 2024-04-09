@@ -83,7 +83,7 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
 ### Typography
 
 The main font used in the site is Lato, with Sans Serif as the fallback font in case Lato is not being imported correctly.
-[Back to top ⇧](#first-class)
+[Back to top ⇧](#afc)
 
 
 ## Features
@@ -160,7 +160,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
       
 
-[Back to top ⇧](#first-class)
+[Back to top ⇧](#afc)
 
 
 ## Testing
@@ -260,7 +260,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
     - All Pages
 
   ### Home Page
-  
+  ![Homepage image](assets/images/homequiz.png)
         - **Header**
 
             - Clicking on the main logo will bring the customer back to the landing page.
@@ -285,7 +285,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 
   ### Quiz Page
-
+  ![Quizpage image](assets/images/quizpage.png)
   - **Navigation Bar**
 
 `- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
