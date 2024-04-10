@@ -100,11 +100,8 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color for a better user experience.
 
-![Header image](assets/images/header.png)
 
 * **Footer**
-
-![Footer image](assets/images/footer.png)
 
 - The footer includes links to the business' social media channels. 
 
@@ -121,13 +118,10 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-### Frameworks, Libraries and Programs Used
+### Technologies Used
 
 * [Font Awesome](https://fontawesome.com/)
      - Font Awesome was used throughout all pages to add icons in order to create a better visual experience for UX purposes.
-
-* [TinyPNG](https://tinypng.com/)
-    - TinyPNG was used to reduce the file size of the images for the website.
 
 * [GitPod](https://gitpod.io/)
      - GitPod was used for writing code, committing, and then pushing to GitHub.
@@ -135,13 +129,8 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 * [GitHub](https://github.com/)
      - GitHub was used to store the project after pushing.
 
-
-* [Am I Responsive?](http://ami.responsivedesign.is/#)
-    - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
-
 * [Responsive Design Checker](https://www.responsivedesignchecker.com/)
     - Responsive Design Checker was used in the testing process to check responsiveness on various devices.
-
 
 * [W3C Markup Validator](https://validator.w3.org/)
     - W3C Markup Validator was used to validate the HTML code.
@@ -149,13 +138,8 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
     - W3C CSS Validator was used to validate the CSS code.
 
-
-
-
-
-      COMPLETE JS validator
-
-
+* [Mockup Bro](https://mockupbro.com/)
+    - Mockup Bro was used to generate mockup images of teh quiz display on different devices. 
 
 
       
@@ -194,6 +178,14 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
     - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
+
+![W3C HTML Validation](https://validator.w3.org/)
+The HTML checker notified me an error in my quiz.html page such as the sections lacking heading. And so, I started using h2 and h3 elements. 
+
+The identified errors in both pages were corrected by inspecting in ChromeDevTools.
+[W3C CSS Validation](https://jigsaw.w3.org/css-validator/) was used to validate my CSS stylesheet. It found that there was missing brackets, and so I added a couple brackets, to fix all the erros. 
+
+[Jshint validation](https://jshint.com/) was used to validate JavaScript code used in the project. It identified several errors such as missing semicolons in several lines which was corrected by adding semicolon in the JS code. 
 
 
 
@@ -244,8 +236,6 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
         No appearance, responsiveness nor functionality issues.
 
-* Common Elements Testing
-    - All Pages
 
   ### Home Page
   ![Homepage image](assets/images/homequiz.png)
@@ -293,17 +283,17 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
   - **Feedback**
 - Each user recieves personalised feeback based on how well they have performed in the quiz.
 - There is also a try again button at the bottom of this, to enhance the user experience, as they are given another chance to retake the quiz and improve their score.
-  ![quiz page preview](/assets/images/quiz-page-instruction.jpg)
+ 
 
 - After clicking the start quiz button, the user is provided with a page that contains question banks.The page has questions with 4 options to select answer. On top of page, there is a timer is provided to alert the user of the remaining time to complete the quiz. The page also has a next button, which will be active once answer option is selected. Once the user click the next button, the next question will appear until it's question 10. At the bottom of the page there is an option to provides the number of correct and incorrect answers given by the user.
-![quiz page preview](/assets/images/question-bank.jpg)
+
 
 - After completing 10 questions, a score box will appear that will exhibit the messages to the users which depends on how many answers are correct.
 
   
 - the score box has a try again button which will redirect the user to question bank 1. At this stage the timer is restarted back to 180 seconds.
   
-![quiz page preview](/assets/images/score-sheet.jpg)
+
 [Back to top ⇧](#afc)
 
 
