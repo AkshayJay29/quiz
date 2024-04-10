@@ -77,7 +77,7 @@ Visit the deployed website [here] https://akshayjay29.github.io/self-improvement
 
 ### Color Scheme
 
-* The colors used in the site are two different tones of black #3a3a3a for the text in the headers and #252525 for the text in the body and rgba(0, 0, 0, 0.792) for the nav bar) different tones of grey: rgba(0, 0, 0, .6) for the background of the header and  #e6e6e6 for the shadow effect of the circle cover image. These colors are chosen to represent the boldness of our clients and are used to portray a sense of sophistication and sharpness.
+* The colors used in the site are red, white and blue (#3498db). This matches the color scheme of Arsenal Football Club, especially the club badge. This is done to create familiarity with the user as they will be familiar with Arsenal's colors. The color scheme also helps illustrates the main subject of the quiz, and explicitly unveils Arsenal Football Club to the user. 
 
 
 ### Typography
