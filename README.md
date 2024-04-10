@@ -1,6 +1,6 @@
 # AFC
 
-![First Class mockup images](assets/images/IMG_1480 (1).jpg)
+![AFC mockup images](assets/images/IMG_1480.jpg)
 
 Arsenal Football Club, commonly referred to as Arsenal FC or simply Arsenal, is a professional football club based in Holloway, London, England. Established in 1886, Arsenal is one of the most successful clubs in English football history. Here's a brief introduction to the club:
 
