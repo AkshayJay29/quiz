@@ -94,13 +94,13 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 * Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the customers.
 
-* **Header**
+ **Header**
       
 - The header contains the business name and fully responsive navigation bar positioned across the top of the screen.
 
 - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color for a better user experience.
 
-* **Footer**
+ **Footer**
 
 - The footer includes links to the business' social media channels. 
 
