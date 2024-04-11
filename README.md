@@ -299,6 +299,7 @@ The identified errors in both pages were corrected by inspecting in ChromeDevToo
 ### Content
 
 - All content was written by the developer.
+- Format of the quiz was inspired by the Quiz on Coagulation in Water Treatment by dhakal79. Where I took inspiration from their dynamic javascript transitions of the hero images, for my home page and quiz page, as well as the layout of the multiple choice answer options. I then edited this and re-coded it in my own way, to suit my topic. 
 
 
 [Back to top ⇧](#afc)
