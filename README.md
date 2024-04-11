@@ -100,68 +100,59 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color for a better user experience.
 
-
 * **Footer**
 
 - The footer includes links to the business' social media channels. 
 
-
-
-
 [Back to top ⇧](#afc)
 
-  ### Home Page
+### Home Page
   ![Homepage image](assets/images/homequiz.png)
-        - **Header**
+**Header**
+- Clicking on the main logo will bring the customer back to the landing page.
 
-            - Clicking on the main logo will bring the customer back to the landing page.
-
-        - **Navigation Bar**
-
+**Navigation Bar**
 `- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
 
 - Clicking on the navigation bar's links will bring the customer to the specified page.
-
-        
-        - **Hero Image**
+       
+**Hero Image**
 - Hero image is the Emirates stadium. This was chosen to be the hero image of the home page as it makes the topic of the quiz very clear to the user. And enances user experience as it creates nostalgia, due to the stadium being the home of Arsenal FC. 
 
 - A text box with the text: "THE ARSENAL FC QUIZ". This has animation per character to atrract the attention of the user.
 - Below the text, the "START" button is given to direct the user to the quiz page.
-
-        - **Footer**
-
+        
+**Footer**
   - Clicking on the social media links will open the specific website on a new tab.
 
- ### Quiz Page
+### Quiz Page
   ![Quizpage image](assets/images/quizpage.png)
-  - **Navigation Bar**
 
+**Navigation Bar**
 `- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
 
 - Clicking on the navigation bar's links will bring the customer to the specified page.
         - Clicking on the book button link on each treatment section will bring the customer to the book now page.
 
-- **Hero Image**
+**Hero Image**
 - A closer and inside view of the Emirates stadium, to illustrate to the user that by clicking start, they are now into the quiz and in this experience. Similar to how the hero image, of the quiz page, makes them feel like they are in the stadium. 
-    
-    
+      
 - Selecting the button "Quiz rules" provides clear instructions to answer the quiz.
-
 
 -   "Start quiz" button- makes the user experience more easy to understand, as they can clearly identofy what to do next to start the quiz.
 
-  - **Feedback**
+**Footer**
+  - Clicking on the social media links will open the specific website on a new tab.
+
+**Feedback**
 - Each user recieves personalised feeback based on how well they have performed in the quiz.
+  
 - There is also a try again button at the bottom of this, to enhance the user experience, as they are given another chance to retake the quiz and improve their score.
  
-
 - After clicking the start quiz button, the user is provided with a page that contains question banks.The page has questions with 4 options to select answer. On top of page, there is a timer is provided to alert the user of the remaining time to complete the quiz. The page also has a next button, which will be active once answer option is selected. Once the user click the next button, the next question will appear until it's question 10. At the bottom of the page there is an option to provides the number of correct and incorrect answers given by the user.
-
 
 - After completing 10 questions, a score box will appear that will exhibit the messages to the users which depends on how many answers are correct.
 
-  
 - the score box has a try again button which will redirect the user to question bank 1. At this stage the timer is restarted back to 180 seconds.
 
 ### Languages Used
@@ -192,11 +183,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 * [Mockup Bro](https://mockupbro.com/)
     - Mockup Bro was used to generate mockup images of teh quiz display on different devices. 
 
-
-      
-
 [Back to top ⇧](#afc)
-
 
 ## Testing
 
@@ -237,8 +224,6 @@ The identified errors in both pages were corrected by inspecting in ChromeDevToo
 [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) was used to validate my CSS stylesheet. It found that there was missing brackets, and so I added a couple brackets, to fix all the erros. 
 
 [Jshint validation](https://jshint.com/) was used to validate JavaScript code used in the project. It identified several errors such as missing semicolons in several lines which was corrected by adding semicolon in the JS code. 
-
-
 
 ### Manual Testing
 
@@ -286,65 +271,7 @@ The identified errors in both pages were corrected by inspecting in ChromeDevToo
         - **iPhone 7**
 
         No appearance, responsiveness nor functionality issues.
-
-
-  ### Home Page
-  ![Homepage image](assets/images/homequiz.png)
-        - **Header**
-
-            - Clicking on the main logo will bring the customer back to the landing page.
-
-        - **Navigation Bar**
-
-`- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
-
-- Clicking on the navigation bar's links will bring the customer to the specified page.
-
-        
-        - **Hero Image**
-- Hero image is the Emirates stadium. This was chosen to be the hero image of the home page as it makes the topic of the quiz very clear to the user. And enances user experience as it creates nostalgia, due to the stadium being the home of Arsenal FC. 
-
-- A text box with the text: "THE ARSENAL FC QUIZ". This has animation per character to atrract the attention of the user.
-- Below the text, the "START" button is given to direct the user to the quiz page.
-
-        - **Footer**
-
-  - Clicking on the social media links will open the specific website on a new tab.
-
-
-
-  ### Quiz Page
-  ![Quizpage image](assets/images/quizpage.png)
-  - **Navigation Bar**
-
-`- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
-
-- Clicking on the navigation bar's links will bring the customer to the specified page.
-        - Clicking on the book button link on each treatment section will bring the customer to the book now page.
-
-- **Hero Image**
-- A closer and inside view of the Emirates stadium, to illustrate to the user that by clicking start, they are now into the quiz and in this experience. Similar to how the hero image, of the quiz page, makes them feel like they are in the stadium. 
-    
-    
-- Selecting the button "Quiz rules" provides clear instructions to answer the quiz.
-
-
--   "Start quiz" button- makes the user experience more easy to understand, as they can clearly identofy what to do next to start the quiz.
-
-  - **Feedback**
-- Each user recieves personalised feeback based on how well they have performed in the quiz.
-- There is also a try again button at the bottom of this, to enhance the user experience, as they are given another chance to retake the quiz and improve their score.
- 
-
-- After clicking the start quiz button, the user is provided with a page that contains question banks.The page has questions with 4 options to select answer. On top of page, there is a timer is provided to alert the user of the remaining time to complete the quiz. The page also has a next button, which will be active once answer option is selected. Once the user click the next button, the next question will appear until it's question 10. At the bottom of the page there is an option to provides the number of correct and incorrect answers given by the user.
-
-
-- After completing 10 questions, a score box will appear that will exhibit the messages to the users which depends on how many answers are correct.
-
-  
-- the score box has a try again button which will redirect the user to question bank 1. At this stage the timer is restarted back to 180 seconds.
-  
-
+      
 [Back to top ⇧](#afc)
 
 
