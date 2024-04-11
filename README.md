@@ -108,18 +108,17 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 ### Home Page
   ![Homepage image](assets/images/homequiz.png)
-**Header**
-- Clicking on the main logo will bring the customer back to the landing page.
 
 **Navigation Bar**
 - Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
 
-- Clicking on the navigation bar's links will bring the customer to the specified page.
-       
+- Clicking on the navigation bar's links will bring the user to the specified page.
+
 **Hero Image**
-- Hero image is the Emirates stadium. This was chosen to be the hero image of the home page as it makes the topic of the quiz very clear to the user. And enances user experience as it creates nostalgia, due to the stadium being the home of Arsenal FC. 
+- Hero image is the Emirates stadium, which has a zoom animation is included with a focus to attract the attention of the user This was chosen to be the hero image of the home page as it makes the topic of the quiz very clear to the user. And enances user experience as it creates nostalgia, due to the stadium being the home of Arsenal FC. 
 
 - A text box with the text: "THE ARSENAL FC QUIZ". This has animation per character to atrract the attention of the user.
+  
 - Below the text, the "START" button is given to direct the user to the quiz page.
         
 **Footer**
@@ -129,11 +128,10 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
   ![Quizpage image](assets/images/quizpage.png)
 
 **Navigation Bar**
-`- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
 
-- Clicking on the navigation bar's links will bring the customer to the specified page.
-        - Clicking on the book button link on each treatment section will bring the customer to the book now page.
-
+- Clicking on the navigation bar's links will bring the user to the specified page.
+        
 **Hero Image**
 - A closer and inside view of the Emirates stadium, to illustrate to the user that by clicking start, they are now into the quiz and in this experience. Similar to how the hero image, of the quiz page, makes them feel like they are in the stadium. 
       
