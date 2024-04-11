@@ -1,4 +1,5 @@
 // nanimation front page
+// code inspired from Quiz on Coagulation in Water Treatment by dhakal79
 const hero = document.querySelector('.hero');
 const headline = document.querySelector('.headline');
 
@@ -6,13 +7,13 @@ const tl = new TimelineMax();
 tl.fromTo(hero, 1, {
         height: "0%"
     }, {
-        height: "80%",
+        height: "85%",
         //ease: Power2.easeInOut
     })
     .fromTo(hero, 1, {
         width: "100%"
     }, {
-        width: "80%",
+        width: "85%",
         // ease: Power2.easeInOut
     })
     .fromTo(headline, 0.1, {

@@ -1,3 +1,4 @@
+// code inspired from Quiz on Coagulation in Water Treatment by dhakal79
 const startButton = document.getElementById("btn-quiz-rule");
 const questionBox = document.getElementById("question-box");
 const instructionBox = document.getElementById("box");
