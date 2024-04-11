@@ -110,7 +110,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
   ![Homepage image](assets/images/homequiz.png)
 
 **Navigation Bar**
-- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+- Hovering on the different navigation bar's links will trigger a hover effect, highlighting the link for the customer.
 
 - Clicking on the navigation bar's links will bring the user to the specified page.
 
