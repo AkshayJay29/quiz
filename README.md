@@ -112,7 +112,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 - Clicking on the main logo will bring the customer back to the landing page.
 
 **Navigation Bar**
-`- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+- Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
 
 - Clicking on the navigation bar's links will bring the customer to the specified page.
        
