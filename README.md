@@ -1,3 +1,4 @@
+
 # AFC
 
 ![AFC mockup images](assets/images/IMG_1480.jpg)
@@ -113,7 +114,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 - Clicking on the navigation bar's links will bring the user to the specified page.
 
 **Hero Image**
-- Hero image is the Emirates stadium, which has a zoom animation is included with a focus to attract the attention of the user This was chosen to be the hero image of the home page as it makes the topic of the quiz very clear to the user. And enances user experience as it creates nostalgia, due to the stadium being the home of Arsenal FC. 
+- Hero image is the Emirates stadium, which has a zoom animation included, with a focus to attract the attention of the user This was chosen to be the hero image of the home page as it makes the topic of the quiz very clear to the user. And enances user experience as it creates nostalgia, due to the stadium being the home of Arsenal FC. 
 
 - A text box with the text: "THE ARSENAL FC QUIZ". This has animations per character to atrract the attention of the user.
   
@@ -135,7 +136,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
       
 - Selecting the button "Quiz rules" provides clear instructions to answer the quiz.
 
--   "Start quiz" button- makes the user experience more easy to understand, as they can clearly identofy what to do next to start the quiz.
+- "Start quiz" button- makes the user experience more easy to understand, as they can clearly identofy what to do next to start the quiz.
 
 **Footer**
   - Clicking on the social media links will open the specific website on a new tab.
