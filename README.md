@@ -34,7 +34,7 @@ Visit the deployed website here: https://akshayjay29.github.io/quiz/
     3. [Quiz Page](#quiz-page)
 3. [Languages Used](#languages-used)
 4.  [Technologies Used](#technologies-used)
-5.    [Testing](#testing)
+5. [Testing](#testing)
     1. [Testing User Stories](#testing-user-stories)
     2.  [Code Validation](#code-validation)
     3. [Tools Testing](#tools-testing)
