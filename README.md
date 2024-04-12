@@ -53,7 +53,7 @@ Visit the deployed website here: https://akshayjay29.github.io/quiz/
 
 * The website should have a meaningful and bright design, appealing to the users.
 
-* Provide clear instructions that are easy to understand and follow for the user.
+* Provide clear instructions, to complete the quiz, that are easy to understand and follow for the user.
 
 * Provide the user with useful social media links that can facilitate future interaction with the brand.
 
