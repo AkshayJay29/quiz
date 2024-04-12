@@ -19,7 +19,7 @@ The overall aim of this project is to make quiz app which tests the knowledge of
 
 CHANGE THE LINK BELOW
 
-Visit the deployed website [here] https://akshayjay29.github.io/self-improvement/
+Visit the deployed website [here] https://akshayjay29.github.io/quiz/
 
 ## Table of Contents
 
