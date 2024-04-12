@@ -214,7 +214,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
     - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
 
-![W3C HTML Validation](https://validator.w3.org/)
+[W3C HTML Validation](https://validator.w3.org/)
 The HTML checker notified me an error in my quiz.html page such as the sections lacking heading. And so, I started using h2 and h3 elements. 
 
 The identified errors in both pages were corrected by inspecting in ChromeDevTools.
