@@ -57,20 +57,20 @@ Visit the deployed website here: https://akshayjay29.github.io/quiz/
 
 * Provide the user with useful social media links that can facilitate future interaction with the brand.
 
-* Offer the customers the opportunity to try again and improve on their initial score.
+* Offer the users an opportunity to try again and improve on their initial score.
 
   
 ### User Stories
 
 * As a user, I want to be able to navigate through the quiz easily.
 
-* As a user, I want to be able to see whether answer I have selected is correct or incorrect before skipping to the next question.
+* As a user, I want to be able to see whether the answer I have selected is correct or incorrect before skipping to the next question.
 
 * As a user, I want to easily find the contact information for the business.
 
 * As a user, I want to find social media links to the brand's social media pages.
 
-* As a user, I want to be able to sswitch between the home page and the quiz page smoothly.
+* As a user, I want to be able to switch between the home page and the quiz page smoothly.
 
 
 ### Color Scheme
@@ -90,7 +90,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 * Responsive design across all device sizes.
 
-* Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the customers.
+* Similar color scheme and design throughout all pages to effectively structure, categorise and present the questions to the user.
 
  **Header**
       
@@ -115,7 +115,7 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 **Hero Image**
 - Hero image is the Emirates stadium, which has a zoom animation is included with a focus to attract the attention of the user This was chosen to be the hero image of the home page as it makes the topic of the quiz very clear to the user. And enances user experience as it creates nostalgia, due to the stadium being the home of Arsenal FC. 
 
-- A text box with the text: "THE ARSENAL FC QUIZ". This has animation per character to atrract the attention of the user.
+- A text box with the text: "THE ARSENAL FC QUIZ". This has animations per character to atrract the attention of the user.
   
 - Below the text, the "START" button is given to direct the user to the quiz page.
         
