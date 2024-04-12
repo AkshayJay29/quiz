@@ -212,12 +212,11 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
-    - Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
+Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project. The identified errors in both pages were corrected by inspecting in ChromeDevTools.
 
-[W3C HTML Validation](https://validator.w3.org/)
-The HTML checker notified me an error in my quiz.html page such as the sections lacking heading. And so, I started using h2 and h3 elements. 
 
-The identified errors in both pages were corrected by inspecting in ChromeDevTools.
+The [W3C HTML Validation](https://validator.w3.org/) notified me an error in my quiz.html page such as the sections lacking heading. And so, I started using h2 and h3 elements. 
+
 [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) was used to validate my CSS stylesheet. It found that there was missing brackets, and so I added a couple brackets, to fix all the erros. 
 
 [Jshint validation](https://jshint.com/) was used to validate JavaScript code used in the project. It identified several errors such as missing semicolons in several lines which was corrected by adding semicolon in the JS code. 
