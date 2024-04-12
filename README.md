@@ -148,9 +148,9 @@ The main font used in the site is Lato, with Sans Serif as the fallback font in 
  
 - After clicking the start quiz button, the user is provided with a page that contains question banks.The page has questions with 4 options to select answer. On top of page, there is a timer is provided to alert the user of the remaining time to complete the quiz. The page also has a next button, which will be active once answer option is selected. Once the user click the next button, the next question will appear until it's question 10. At the bottom of the page there is an option to provides the number of correct and incorrect answers given by the user.
 
-- After completing 10 questions, a score box will appear that will exhibit the messages to the users which depends on how many answers are correct.
+- After completing 10 questions, a score box will appear that will exhibit messages to the users based on how many answers they got correct.
 
-- the score box has a try again button which will redirect the user to question bank 1. At this stage the timer is restarted back to 180 seconds.
+- The score box has a try again button which will redirect the user to question bank 1. At this stage the timer is restarted back to 180 seconds.
 
 ### Languages Used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
